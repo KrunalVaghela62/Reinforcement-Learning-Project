@@ -53,7 +53,22 @@ Each agent is evaluated on a set of bandit problems (S1 and S2) and the results 
 - **KL-UCB** and **Thompson Sampling** are best at balancing exploration and exploitation.
 
 ---
+## 📊 Visualizations – Set S1
 
+### 📉 Cumulative Regret
+![Cumulative Regret over time](Figure_1.png)
+
+### 📈 Cumulative Reward
+![Cumulative Reward](Figure_2.png)
+
+### 🎯 average reward
+![average reward](Figure_3.png)
+
+### 🎯 Frequency of choice as optimal arm
+![Frequency of choice as optimal arm](Figure_4.png)
+### 🎯 Final regret vs P
+![Final regret vs P](Figure_5.png)
+--
 ## 📈 Set S2: 2-Armed Games with Gaps (p vs p+0.1)
 
 ### ✅ Setup:
