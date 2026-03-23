@@ -249,16 +249,7 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 *   **NumPy**: The fundamental package for numerical computing with Python.
 *   The broader Reinforcement Learning community for continuous innovation and resources.
 
-## 📞 Support & Contact
 
-*   🐛 Issues: For bug reports or feature requests related to the overall repository or specific modules, please use the [GitHub Issues](https://github.com/KrunalVaghela62/Reinforcement-Learning-Project/issues) page.
-*   📧 Contact: You can reach the project owner at [krunal.vaghela.dev@example.com](mailto:krunal.vaghela.dev@example.com) (TODO: Replace with actual contact email if desired).
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful or interesting!**
 
 Made with ❤️ by [Krunal Vaghela]
 
