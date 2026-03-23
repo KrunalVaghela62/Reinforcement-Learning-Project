@@ -1,17 +1,50 @@
 ## Week3: 2v1 Football Shootouts
 
 
-### Where's the detailed problem statement?
-This week's detailed problem description can be found in the html found in this project. You might want to clone this directory and then open the html file on your browser. The `imgs` folder would also be needed for proper rendering of the html page
+## 📄 Where to Find the Detailed Problem Statement
 
-### Challenges this week
-The most significant challenge I pose is that you get no boiler plate code. How you design this entire project is entirely upto you. Keep the code neat and clean. Use the command line parameters as specified in the html statement. I recommend you to use TD(0) Value iteration or Howard's Policy Iteration to solve the problem each time.
+The detailed problem description for this assignment is provided as an HTML file within this project. Please clone or download the repository and open the HTML file in your browser.  
 
-#### There are a few additional things I want you to implement:
-1. A command line option that allows me to pretty print the status of the players and the ball on the field at any given moment. How you do this is upto you entirely. I recommend that you create a log file into which you print the field at each time step. This might help in debugging. Try designing this as a starting point before you actually design the MDP solver itself.
-2. Add neat comments to the code.
-3. Keep the environment and agent codes in separate files and ensure your code is modular with proper implementation of classes. This is as much about good coding as it is about RL.
-4. How you model this problem as an MDP is critical. Your code should reflect your thinking.
+> ⚠️ Ensure that the `imgs` folder is present in the same directory for proper rendering of the content.
 
-### Stuff that needs to be submitted this week
-Not only do I need your working code in this directory as a commit but I also need a video recording giving me a walk through of your code. This week's work is 100% required for certfication and is expected from everyone, since this is RL core. Do not attach the video recording on GitHub (space constraints), instead you should create a Gdrive link and fill it in the form you can find on the google classroom page for this assignment. Do not forget to enable view access for all.
+---
+
+## ⚡ Challenges for This Week
+
+The primary challenge is that **no boilerplate code has been provided**. You are expected to design and implement the entire solution independently.
+
+- Focus on writing **clean, well-structured, and modular code**
+- Follow the **command-line interface specifications** mentioned in the problem statement
+
+You may consider using:
+- TD(0) Value Iteration  
+- Howard’s Policy Iteration  
+
+---
+
+## 🛠️ Additional Requirements
+
+- Implement a command-line option to **visualize or print the state of the field**, including players and the ball, at any given time step  
+  - Suggested approach: generate a **log file** that records the field state at each step (useful for debugging)
+
+- Maintain **clear and concise comments** throughout your code
+
+- Ensure a **modular design**:
+  - Separate **environment** and **agent** logic into different files  
+  - Use a **class-based structure**
+
+- Clearly define and implement the problem as a **Markov Decision Process (MDP)**  
+  - Your code should reflect your modeling decisions
+
+---
+
+## 📦 Submission Requirements
+
+- Submit your **complete working code** by committing it to this repository  
+
+- Provide a **video walkthrough** explaining your implementation:
+  - ❌ Do NOT upload the video to GitHub (storage limitations)  
+  - ✅ Upload the video to **Google Drive**  
+  - 🔗 Share the link via the submission form  
+
+> ⚠️ Make sure the Google Drive link has **view access enabled for everyone**
